@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @niteshsharma830
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI and ML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Artificial Inteligence and Machine Learning.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate AI and ML projects with startups.
+- 📫 How to reach me: Email me at - niteshkumar.sharma830@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I am very passionate about learning new and evolving technologies.
 
 <!---
 niteshsharma830/niteshsharma830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
